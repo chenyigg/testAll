@@ -27,7 +27,8 @@ namespace LinXi_IdentityServer
             return new[]
             {
                 new ApiResource("api1", "LinXi Api1"){Scopes = { "LinXi_scope"}},
-                   new ApiResource("api2", "LinXi Api2"){Scopes = { "LinXi_scope2"}}
+                   new ApiResource("api2", "LinXi Api2"){Scopes = { "LinXi_scope2"}},
+                    new ApiResource("api3", "LinXi Api3"){Scopes = { "LinXi_scope3"}}
             };
         }
 
@@ -36,7 +37,8 @@ namespace LinXi_IdentityServer
             return new ApiScope[]
             {
                   new ApiScope("LinXi_scope"),
-                              new ApiScope("LinXi_scope2")
+                              new ApiScope("LinXi_scope2"),
+                                 new ApiScope("LinXi_scope3")
             };
         }
 
@@ -90,6 +92,21 @@ namespace LinXi_IdentityServer
                        new Secret("secret".Sha256())
                    },
                    AllowedScopes = { "LinXi_scope2",IdentityServerConstants.StandardScopes.OpenId, //必须要添加，否则报forbidden错误
+                 IdentityServerConstants.StandardScopes.Profile },
+                    //token过期 3600秒，秒为单位
+                    AccessTokenLifetime=900,
+                    AbsoluteRefreshTokenLifetime=300,
+               },
+                  new Client
+               {
+                   ClientId = "client3",
+                   AllowedGrantTypes = GrantTypes.Implicit,
+
+                   ClientSecrets =
+                   {
+                       new Secret("secret".Sha256())
+                   },
+                   AllowedScopes = { "LinXi_scope3",IdentityServerConstants.StandardScopes.OpenId, //必须要添加，否则报forbidden错误
                  IdentityServerConstants.StandardScopes.Profile },
                     //token过期 3600秒，秒为单位
                     AccessTokenLifetime=900,
