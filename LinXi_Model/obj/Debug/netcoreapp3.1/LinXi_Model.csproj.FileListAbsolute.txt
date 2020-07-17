@@ -20,3 +20,15 @@ E:\码云\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.AssemblyInfo
 E:\码云\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.dll
 E:\码云\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.pdb
 E:\码云\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.deps.json
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.runtimeconfig.json
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.genruntimeconfig.cache

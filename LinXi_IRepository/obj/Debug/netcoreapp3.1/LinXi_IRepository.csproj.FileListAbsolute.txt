@@ -20,3 +20,15 @@ E:\码云\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.
 E:\码云\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.csproj.CopyComplete
 E:\码云\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.dll
 E:\码云\LinXi_ERP\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.pdb
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\bin\Debug\netcoreapp3.1\LinXi_IRepository.deps.json
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\bin\Debug\netcoreapp3.1\LinXi_IRepository.dll
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\bin\Debug\netcoreapp3.1\LinXi_IRepository.pdb
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\bin\Debug\netcoreapp3.1\LinXi_Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\bin\Debug\netcoreapp3.1\LinXi_Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.dll
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IRepository\obj\Debug\netcoreapp3.1\LinXi_IRepository.pdb
