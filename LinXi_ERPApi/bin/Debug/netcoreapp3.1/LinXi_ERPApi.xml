@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LinXi_ERPApi</name>
+    </assembly>
+    <members>
+        <member name="M:LinXi_ERPApi.Controllers.AcDepartmentController.GetAC(System.Int32)">
+            <summary>
+            获取单个用户信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LinXi_ERPApi.Controllers.AcDepartmentController.EditAC(LinXi_Model.AcDepartment)">
+            <summary>
+            修改xx表的资料
+            </summary>
+            <param name="de">xx类</param>
+            <returns></returns>
+        </member>
+        <member name="M:LinXi_ERPApi.Startup.ConfigureContainer(Autofac.ContainerBuilder)">
+            <summary>
+            Autofac组件注册
+            </summary>
+            <param name="containerBuilder"></param>
+        </member>
+        <member name="M:LinXi_ERPApi.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            添加中间件
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+        <member name="T:LinXI_ERPApi.Extensions.SwaggerSetup">
+            <summary>
+            Swagger配置
+            </summary>
+        </member>
+        <member name="M:LinXI_ERPApi.Extensions.SwaggerSetup.AddMySwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Swagger配置
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,27 @@
+E:\Net Core\LinXi_ERP\LinXi_Service\bin\Debug\netcoreapp3.1\LinXi_Service.deps.json
+E:\Net Core\LinXi_ERP\LinXi_Service\bin\Debug\netcoreapp3.1\LinXi_Service.dll
+E:\Net Core\LinXi_ERP\LinXi_Service\bin\Debug\netcoreapp3.1\LinXi_Service.pdb
+E:\Net Core\LinXi_ERP\LinXi_Service\bin\Debug\netcoreapp3.1\LinXi_IRepository.dll
+E:\Net Core\LinXi_ERP\LinXi_Service\bin\Debug\netcoreapp3.1\LinXi_IService.dll
+E:\Net Core\LinXi_ERP\LinXi_Service\bin\Debug\netcoreapp3.1\LinXi_Model.dll
+E:\Net Core\LinXi_ERP\LinXi_Service\bin\Debug\netcoreapp3.1\LinXi_IRepository.pdb
+E:\Net Core\LinXi_ERP\LinXi_Service\bin\Debug\netcoreapp3.1\LinXi_IService.pdb
+E:\Net Core\LinXi_ERP\LinXi_Service\bin\Debug\netcoreapp3.1\LinXi_Model.pdb
+E:\Net Core\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.csprojAssemblyReference.cache
+E:\Net Core\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.AssemblyInfoInputs.cache
+E:\Net Core\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.AssemblyInfo.cs
+E:\Net Core\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.csproj.CopyComplete
+E:\Net Core\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.dll
+E:\Net Core\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.pdb
+E:\Net Core\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Service.deps.json
+E:\Net Core\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Service.dll
+E:\Net Core\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Service.pdb
+E:\码云\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Service.deps.json
+E:\码云\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Service.dll
+E:\码云\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Service.pdb
+E:\码云\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.csprojAssemblyReference.cache
+E:\码云\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.AssemblyInfoInputs.cache
+E:\码云\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.AssemblyInfo.cs
+E:\码云\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.csproj.CopyComplete
+E:\码云\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.dll
+E:\码云\LinXi_ERP\LinXi_Service\obj\Debug\netcoreapp3.1\LinXi_Service.pdb

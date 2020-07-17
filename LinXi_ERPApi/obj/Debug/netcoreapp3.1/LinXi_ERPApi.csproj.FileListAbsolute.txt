@@ -1,0 +1,398 @@
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Log4net.config
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.exe
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.deps.json
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.runtimeconfig.json
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.runtimeconfig.dev.json
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.pdb
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.xml
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Autofac.Configuration.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\IdentityModel.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\IdentityModel.AspNetCore.OAuth2Introspection.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\IdentityServer4.AccessTokenValidation.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.Design.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Scrutor.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Common.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Model.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Common.pdb
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Model.pdb
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.csprojAssemblyReference.cache
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.AssemblyInfoInputs.cache
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.AssemblyInfo.cs
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.RazorTargetAssemblyInfo.cache
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.csproj.CopyComplete
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\staticwebassets\LinXi_ERPApi.StaticWebAssets.Manifest.cache
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\staticwebassets\LinXi_ERPApi.StaticWebAssets.xml
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.pdb
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.genruntimeconfig.cache
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_IRepository.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_IService.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_IService.pdb
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_IRepository.pdb
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Net Core\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Log4net.config
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.exe
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.deps.json
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.runtimeconfig.json
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.runtimeconfig.dev.json
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.pdb
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_ERPApi.xml
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Autofac.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Autofac.Configuration.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\IdentityModel.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\IdentityModel.AspNetCore.OAuth2Introspection.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\IdentityServer4.AccessTokenValidation.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\log4net.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.Design.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Scrutor.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Annotations.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Common.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_IRepository.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_IService.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Model.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Common.pdb
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_IService.pdb
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Model.pdb
+E:\码云\LinXi_ERP\LinXI_ERPApi\bin\Debug\netcoreapp3.1\LinXi_IRepository.pdb
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.csprojAssemblyReference.cache
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.AssemblyInfoInputs.cache
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.AssemblyInfo.cs
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.MvcApplicationPartsAssemblyInfo.cs
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.MvcApplicationPartsAssemblyInfo.cache
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.RazorTargetAssemblyInfo.cache
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.csproj.CopyComplete
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\staticwebassets\LinXi_ERPApi.StaticWebAssets.Manifest.cache
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\staticwebassets\LinXi_ERPApi.StaticWebAssets.xml
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.dll
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.pdb
+E:\码云\LinXi_ERP\LinXI_ERPApi\obj\Debug\netcoreapp3.1\LinXi_ERPApi.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+E:\Net Core\LinXi_ERP\LinXi_Repository\bin\Debug\netcoreapp3.1\LinXi_Repository.deps.json
+E:\Net Core\LinXi_ERP\LinXi_Repository\bin\Debug\netcoreapp3.1\LinXi_Repository.dll
+E:\Net Core\LinXi_ERP\LinXi_Repository\bin\Debug\netcoreapp3.1\LinXi_Repository.pdb
+E:\Net Core\LinXi_ERP\LinXi_Repository\bin\Debug\netcoreapp3.1\LinXi_IRepository.dll
+E:\Net Core\LinXi_ERP\LinXi_Repository\bin\Debug\netcoreapp3.1\LinXi_Model.dll
+E:\Net Core\LinXi_ERP\LinXi_Repository\bin\Debug\netcoreapp3.1\LinXi_IRepository.pdb
+E:\Net Core\LinXi_ERP\LinXi_Repository\bin\Debug\netcoreapp3.1\LinXi_Model.pdb
+E:\Net Core\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.csprojAssemblyReference.cache
+E:\Net Core\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.AssemblyInfoInputs.cache
+E:\Net Core\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.AssemblyInfo.cs
+E:\Net Core\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.csproj.CopyComplete
+E:\Net Core\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.dll
+E:\Net Core\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.pdb
+E:\Net Core\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Repository.deps.json
+E:\Net Core\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Repository.dll
+E:\Net Core\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Repository.pdb
+E:\码云\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Repository.deps.json
+E:\码云\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Repository.dll
+E:\码云\LinXi_ERP\LinXi_ERPApi\bin\Debug\netcoreapp3.1\LinXi_Repository.pdb
+E:\码云\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.csprojAssemblyReference.cache
+E:\码云\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.AssemblyInfoInputs.cache
+E:\码云\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.AssemblyInfo.cs
+E:\码云\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.csproj.CopyComplete
+E:\码云\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.dll
+E:\码云\LinXi_ERP\LinXi_Repository\obj\Debug\netcoreapp3.1\LinXi_Repository.pdb

@@ -1,0 +1,22 @@
+E:\Net Core\LinXi_ERP\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.deps.json
+E:\Net Core\LinXi_ERP\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.runtimeconfig.json
+E:\Net Core\LinXi_ERP\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.runtimeconfig.dev.json
+E:\Net Core\LinXi_ERP\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.dll
+E:\Net Core\LinXi_ERP\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.pdb
+E:\Net Core\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.AssemblyInfoInputs.cache
+E:\Net Core\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.AssemblyInfo.cs
+E:\Net Core\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.dll
+E:\Net Core\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.pdb
+E:\Net Core\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.genruntimeconfig.cache
+E:\Net Core\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.csprojAssemblyReference.cache
+E:\码云\LinXi_ERP\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.deps.json
+E:\码云\LinXi_ERP\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.runtimeconfig.json
+E:\码云\LinXi_ERP\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.runtimeconfig.dev.json
+E:\码云\LinXi_ERP\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.dll
+E:\码云\LinXi_ERP\LinXI_Model\bin\Debug\netcoreapp3.1\LinXi_Model.pdb
+E:\码云\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.csprojAssemblyReference.cache
+E:\码云\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.AssemblyInfoInputs.cache
+E:\码云\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.AssemblyInfo.cs
+E:\码云\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.dll
+E:\码云\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.pdb
+E:\码云\LinXi_ERP\LinXI_Model\obj\Debug\netcoreapp3.1\LinXi_Model.genruntimeconfig.cache
