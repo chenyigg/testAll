@@ -24,3 +24,17 @@ E:\码云\LinXi_ERP\LinXi_IService\obj\Debug\netcoreapp3.1\LinXi_IService.Assemb
 E:\码云\LinXi_ERP\LinXi_IService\obj\Debug\netcoreapp3.1\LinXi_IService.csproj.CopyComplete
 E:\码云\LinXi_ERP\LinXi_IService\obj\Debug\netcoreapp3.1\LinXi_IService.dll
 E:\码云\LinXi_ERP\LinXi_IService\obj\Debug\netcoreapp3.1\LinXi_IService.pdb
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\bin\Debug\netcoreapp3.1\LinXi_IService.deps.json
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\bin\Debug\netcoreapp3.1\LinXi_IService.dll
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\bin\Debug\netcoreapp3.1\LinXi_IService.pdb
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\bin\Debug\netcoreapp3.1\LinXi_IRepository.dll
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\bin\Debug\netcoreapp3.1\LinXi_Model.dll
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\bin\Debug\netcoreapp3.1\LinXi_IRepository.pdb
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\bin\Debug\netcoreapp3.1\LinXi_Model.pdb
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\obj\Debug\netcoreapp3.1\LinXi_IService.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\obj\Debug\netcoreapp3.1\LinXi_IService.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\obj\Debug\netcoreapp3.1\LinXi_IService.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\obj\Debug\netcoreapp3.1\LinXi_IService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\obj\Debug\netcoreapp3.1\LinXi_IService.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\obj\Debug\netcoreapp3.1\LinXi_IService.dll
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IService\obj\Debug\netcoreapp3.1\LinXi_IService.pdb
