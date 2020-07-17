@@ -266,3 +266,5 @@ E:\码云\LinXi_ERP\LinXi_IdentityServer\obj\Debug\netcoreapp3.1\staticwebassets
 E:\码云\LinXi_ERP\LinXi_IdentityServer\obj\Debug\netcoreapp3.1\LinXi_IdentityServer.dll
 E:\码云\LinXi_ERP\LinXi_IdentityServer\obj\Debug\netcoreapp3.1\LinXi_IdentityServer.pdb
 E:\码云\LinXi_ERP\LinXi_IdentityServer\obj\Debug\netcoreapp3.1\LinXi_IdentityServer.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IdentityServer\obj\Debug\netcoreapp3.1\LinXi_IdentityServer.dll
+C:\Users\Administrator\Desktop\新建文件夹\LinXi_IdentityServer\obj\Debug\netcoreapp3.1\LinXi_IdentityServer.pdb
